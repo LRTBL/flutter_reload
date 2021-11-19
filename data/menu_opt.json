@@ -1,0 +1,35 @@
+{
+    "appName": "Componentes",
+    "routes": [
+        {
+            "route": "alert",
+            "icon": "add_alert",
+            "text": "Alertas"
+        },
+        {
+            "route": "avatar",
+            "icon": "accessibility",
+            "text": "Avatars"
+        },
+        {
+            "route": "card",
+            "icon": "folder_open",
+            "text": "Cards - Tarjetas"
+        },
+        {
+            "route": "animated",
+            "icon": "donut_large",
+            "text": "Animated Container"
+        },
+        {
+            "route": "inputs",
+            "icon": "input",
+            "text": "Inputs"
+        },
+        {
+            "route": "listview",
+            "icon": "list",
+            "text": "Listas y Scroll"
+        }
+    ]
+}
